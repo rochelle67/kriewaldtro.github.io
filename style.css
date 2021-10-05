@@ -1,6 +1,8 @@
+/*
+COMMENTING THIS OUT BECAUSE IT WORKS FROM SUBLIME BUT NOT AFTER I UPLOAD TO GITHUB (MOVED TO HTML)
 body {
 	background-image: url("background.jpeg");
-}
+} */
 h1, h2, h3, h4, h5, p {
 	font-family:  Futura,sans-serif;
 	color: lightgrey;
